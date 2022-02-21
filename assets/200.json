@@ -1,0 +1,70 @@
+{
+  "name": "Universols #200",
+  "symbol": "UNISOLS",
+  "description": "777 unique thinkers contemplating life on the Solana blockchain",
+  "seller_fee_basis_points": 800,
+  "image": "200.png",
+  "external_url": "https://www.universols.io/",
+  "edition": 200,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "YellowStars"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    },
+    {
+      "trait_type": "Glass Color",
+      "value": "StandardGlass"
+    },
+    {
+      "trait_type": "Skin Color",
+      "value": "DarkSkin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SuitPurple"
+    },
+    {
+      "trait_type": "Badge",
+      "value": "Security"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Blond"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "BandanaBlue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "TongueOutSide"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "MediumRound"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9YzpoTw7v7v6ubGJxDyesYk87KjVkRADkS1MLU4NQj9o",
+        "share": 100
+      }
+    ]
+  }
+}
